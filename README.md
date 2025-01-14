@@ -20,7 +20,7 @@ plots that you create.
 After opening Spyder, download these four files and open them within Spyder. For any given script that you would
 like to run, press the "play" button on the top to run the module. Afterwards, run any given function in the 
 console. For example, after downloading 3D_and_parametric_plots.py and opening it within Spyder, I press the 
-"play" button to run the file. In the console, I type plotA(), which plots y = 3*x**3 + 2*x**2 - 5 in the plot
+"play" button to run the file. In the console, I type plotA(), which plots $$y = 3x^3 + 2x^2 - 5$$ in the plot
 window. Each of these functions plotA(), plotB(), etc. refer to a different exercise and therefore plot 
 a different surface/curve. A unique capital letter in the function signifies a unique plot. This naming 
 scheme is also used in solving_diff_eq.py.
@@ -28,20 +28,21 @@ scheme is also used in solving_diff_eq.py.
 For your information, here is the output for each of the functions (excluding helpers like plotDh1) in 
 3D_and_parametric_plots.py:
 
-### Plot A
+
+### Plot A: $$y = 3x^3 + 2x^2 - 5$$
 ![plotA](https://github.com/user-attachments/assets/5f9c6065-db8e-44b2-a2ec-454f47f527ec)
 
-### Plot B
+### Plot B: $$y = e^{-x^2}$$ for $$-5 \leq x \leq 5$$
 ![plotB](https://github.com/user-attachments/assets/350cf40b-3458-4456-827c-d7ab247c47bd)
 
 
-### Plot C
+### Plot C: $$x^2 - 2xy - y^2 = 1$$
 ![plotC](https://github.com/user-attachments/assets/3a3607b2-e5aa-4087-abcd-fda11c578a0f)
 
 
-### Plot D
+### Plot D: $$z = 4x^2 e^y - 2x^4 - e^{4y}$$ for $$-3 \leq x \leq 3$$ and $$-1 \leq y \leq 1$$
 ![plotD](https://github.com/user-attachments/assets/0f55321c-ab79-4f62-878b-a6f8dd352b8d)
 
+### Plot E: $$x = t^2 - 3t, y = t^3 - 9t$$, for $$-4 \leq t \leq 4$$
+![plotE](https://github.com/user-attachments/assets/997c1d1a-2029-473e-a705-724e4030d56e)
 
-### Plot E
-![plotE](https://github.com/user-attachments/assets/165bbd48-ff7e-414c-b00f-1a10bfbde5c2)
